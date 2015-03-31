@@ -1,0 +1,19 @@
+#orcid-profiles-widget-js h1, #orcid-profiles-widget-js h2 {
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+#orcid-profiles-widget-js div.orcid-profile {
+    margin: 5px 0 5px 0;
+}
+#orcid-profiles-widget-js .orcid-profile .orcid-bio {
+}
+#orcid-profiles-widget-js .orcid-profile .orcid-works {
+}
+#orcid-profiles-widget-js .orcid-uri {
+    margin: 4px 2px 20px 0px;
+    display: block;
+    text-align: right;
+}
+#orcid-profiles-widget-js span.orcid-works {
+    margin-left: 5px;
+}
